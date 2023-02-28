@@ -19,7 +19,9 @@ This is a Jupyter notebook. Package requirements are included in requirement.txt
 The notebook includes all the markdowns which explain the process.
 
 ## Model using
-
+* KMeans Clustering: [KMeans Clustering](https://arxiv.org/abs/1801.02949)
+* PCA: [A Tutorial on Principal Component Analysis
+](https://arxiv.org/abs/1404.1100)
 ## Contribution
 1. Fork it
 2. Create your feature branch: `git checkout -b my-new-feature`
