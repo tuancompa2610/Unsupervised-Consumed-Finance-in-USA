@@ -10,7 +10,7 @@
   - [Contribution](#-contribution)
 
 ## About Repository
-
+In this repository I will build a k-means model to cluster US consumers into groups. I also use principal component analysis (PCA) for data visualization, and create an interactive dashboard with Plotly Dash.
 ## Installation
 
 ## Useage
