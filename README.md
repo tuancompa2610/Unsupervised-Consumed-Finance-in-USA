@@ -6,7 +6,7 @@
   - [About Repository](#-about-repository)
   - [Installation](#-installation)
   - [Useage](#-useage)
-  - [Report](#-report)
+  - [Model using](#-model-using)
   - [Contribution](#-contribution)
 
 ## About Repository
@@ -18,7 +18,7 @@ This is a Jupyter notebook. Package requirements are included in requirement.txt
 ## Useage
 The notebook includes all the markdowns which explain the process.
 
-## Report
+## Model using
 
 ## Contribution
 1. Fork it
